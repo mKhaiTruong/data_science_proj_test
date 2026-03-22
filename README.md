@@ -3,7 +3,7 @@
 ## Workflow:
 
 1. Data ingestion and validate data
-2. Data transformation
+2. Data transformation - Feature Engineering, Data Preprocessing
 3. Train & eval models
 4. ??
 
